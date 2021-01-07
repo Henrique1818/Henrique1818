@@ -9,9 +9,6 @@
 
 #### Web developer and student focused on learning back-end and front-end technologies 📚
 
-
-### 🚀 Technologies and Tools ⚙
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Henrique1818&show_icons=true&theme=dark" alt="github readme stats" width="400" height="180"/>
 </div>
