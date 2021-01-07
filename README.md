@@ -9,7 +9,6 @@
 
 #### Web developer and student focused on learning back-end and front-end technologies 📚
 
-<br/>
 
 ### 🚀 Technologies and Tools ⚙
 
