@@ -1,17 +1,36 @@
-## Luiz Henrique
+# Hi, I'm Henrique :wave:
+
+Web developer and student focused on learning back-end and front-end technologies 📚
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Henrique1818)](https://github.com/Henrique1818)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/luiz-henrique1889/)](https://www.linkedin.com/in/luiz-henrique1889/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/henrique18_89/)
 
 
-### :wave: About me
+```js
+class About{
+  constructor() {
+    this.name = 'Luiz Henrique';
+    this.age = 21;
+    this.langs = ['Javascript', 'Typescript'];
+    this.likesToDO = ['Coding', 'Watching series and movies', 'Discover new places'];
+    this.currentlyStudying = [];
+  }
 
-#### Web developer and student focused on learning back-end and front-end technologies 📚
+  currently(value){
+    let breakingItems = value.split(", ");
+
+    return this.currentlyStudying.push(breakingItems);
+  }
+}
+
+const aboutMe = new About();
+aboutMe.currently('React Native, Docker, Typescript, Docker, AWS, SASS, Nextjs');
+
+console.log(aboutMe);
+```
 
 <br/>
-
-### 🚀 Technologies and Tools ⚙
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Henrique1818&show_icons=true&theme=dark" alt="github readme stats" width="400" height="180"/>
