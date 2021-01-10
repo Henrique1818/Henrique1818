@@ -20,6 +20,7 @@ class About{
   currently(value){
     let breakingItems = value.split(", ");
 
+<<<<<<< HEAD
     return this.currentlyStudying.push(breakingItems);
   }
 }
@@ -32,6 +33,8 @@ console.log(aboutMe);
 
 <br/>
 
+=======
+>>>>>>> 51c09ac133bed74c3f09f3897cce9f5e052c4dcf
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Henrique1818&show_icons=true&theme=dark" alt="github readme stats" width="400" height="180"/>
 </div>
