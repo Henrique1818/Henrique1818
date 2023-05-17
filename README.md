@@ -1,6 +1,6 @@
 # Hi, I'm Henrique :wave:
 
-Web developer and student focused on learning back-end and front-end technologies 📚
+System developer and student focused on learning back-end and front-end technologies 📚
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Henrique1818)](https://github.com/Henrique1818)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/luiz-henrique1889/)](https://www.linkedin.com/in/luiz-henrique1889/)
@@ -10,24 +10,14 @@ Web developer and student focused on learning back-end and front-end technologie
 ```js
 class About{
   constructor() {
-    this.name = 'Luiz Henrique';
-    this.age = 21;
-    this.langs = ['Javascript', 'Typescript'];
+    this.name = 'Henrique';
+    this.age = 23;
+    this.langs = ['CSharp', 'ASP.NET Framework', 'ASP.NET', 'ASP.NET MVC', 'Javascript', 'Nodejs', 'Reactjs'];
     this.likesToDO = ['Coding', 'Watching series and movies', 'Discover new places'];
-    this.currentlyStudying = [];
-  }
-
-  currently(value){
-    let breakingItems = value.split(", ");
-
-    return this.currentlyStudying.push(breakingItems);
   }
 }
 
-const aboutMe = new About();
-aboutMe.currently('React Native, Docker, Typescript, Docker, AWS, SASS, Nextjs');
-
-console.log(aboutMe);
+console.log(new About());
 ```
 
 <br/>
