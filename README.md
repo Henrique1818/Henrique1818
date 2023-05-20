@@ -12,7 +12,7 @@ class About{
   constructor() {
     this.name = 'Henrique';
     this.age = 23;
-    this.langs = ['CSharp', 'ASP.NET Framework', 'ASP.NET', 'ASP.NET MVC', 'Javascript', 'Nodejs', 'Reactjs'];
+    this.stacks = ['CSharp', 'ASP.NET Framework', 'ASP.NET', 'ASP.NET MVC', 'Javascript', 'Nodejs', 'Reactjs'];
     this.likesToDO = ['Coding', 'Watching series and movies', 'Discover new places'];
   }
 }
