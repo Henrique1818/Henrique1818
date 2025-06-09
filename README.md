@@ -4,7 +4,7 @@ System developer and student focused on learning back-end and front-end technolo
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Henrique1818)](https://github.com/Henrique1818)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/luiz-henrique1889/)](https://www.linkedin.com/in/luiz-henrique1889/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_byrique/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_henrique.ls9/)
 
 
 ```js
