@@ -8,8 +8,9 @@ System developer and student focused on learning back-end and front-end technolo
 
 
 Software developer | ASP.NET | .NET Core | .NET MAUI | Blazor | SQL Server | PostgreSQL | JavaScript
+<br/>
 Com mais de 4 anos de experiência na criação e manutenção de aplicações robustas e escaláveis.
-
+<br/>
 Sou um desenvolvedor de software apaixonado por tecnologia e resolução de problemas. Ao longo da minha carreira, atuei no desenvolvimento de sistemas web, APIs e aplicações cross-platform, utilizando tecnologias como ASP.NET, .NET Core, .NET MAUI e Blazor, sempre com foco em performance, segurança e boa experiência do usuário.
 
 <br/>
