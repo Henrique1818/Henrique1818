@@ -7,18 +7,10 @@ System developer and student focused on learning back-end and front-end technolo
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_henrique.ls9/)
 
 
-```js
-class About{
-  constructor() {
-    this.name = 'Henrique';
-    this.age = 23;
-    this.stacks = ['CSharp', 'ASP.NET Framework', 'ASP.NET', 'ASP.NET MVC', 'Javascript', 'Nodejs', 'Reactjs'];
-    this.likesToDO = ['Coding', 'Watching series and movies', 'Discover new places'];
-  }
-}
+Software developer | ASP.NET | .NET Core | .NET MAUI | Blazor | SQL Server | PostgreSQL | JavaScript
+Com mais de 4 anos de experiência na criação e manutenção de aplicações robustas e escaláveis.
 
-console.log(new About());
-```
+Sou um desenvolvedor de software apaixonado por tecnologia e resolução de problemas. Ao longo da minha carreira, atuei no desenvolvimento de sistemas web, APIs e aplicações cross-platform, utilizando tecnologias como ASP.NET, .NET Core, .NET MAUI e Blazor, sempre com foco em performance, segurança e boa experiência do usuário.
 
 <br/>
 
