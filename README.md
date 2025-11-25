@@ -9,7 +9,3 @@ Com mais de 4 anos de experiência na criação e manutenção de aplicações r
 Sou um desenvolvedor de software apaixonado por tecnologia e resolução de problemas. Ao longo da minha carreira, atuei no desenvolvimento de sistemas web, APIs e aplicações cross-platform, utilizando tecnologias como ASP.NET, .NET Core, .NET MAUI e Blazor, sempre com foco em performance, segurança e boa experiência do usuário.
 
 <br/>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique1818&show_icons=true&theme=dark" alt="github readme stats" width="400" height="180"/>
-</div>
